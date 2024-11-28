@@ -1,1 +1,1 @@
-# Inventopry_management_DjangoDanj
+# Inventory_management_Django
